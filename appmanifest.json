@@ -1,0 +1,16 @@
+{
+	"name": "Кальмарная игра",
+	"short_name": "Кальмарная игра",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-64.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
